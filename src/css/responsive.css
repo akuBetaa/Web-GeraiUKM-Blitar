@@ -1,0 +1,23 @@
+@media (max-width: 767.98px) { 
+    /* HOME PAGE  */
+    .header h1 {
+        font-size: 32px;
+    }
+
+    .header p {
+        font-size: 12px;
+    }
+
+    .header .head:nth-child(1){
+        margin-bottom: 20px;
+    }
+
+    .head:nth-child(2) {
+        margin-top: 10px;
+    }
+}
+
+
+@media (min-width: 767.98px ) and (max-widht: 900px) { 
+
+}

@@ -14,7 +14,7 @@ var products = [
         harga : "17K",
     },
     {
-        id : 1,
+        id : 3,
         img : "/src/img/product/product-1.png",
         name : "Kripik Pare Pak Jo",
         deskripsi : "Berat 120gram",

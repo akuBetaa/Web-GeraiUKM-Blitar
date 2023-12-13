@@ -8,7 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 ///untuk memanggil list Product
-// script.js
 document.addEventListener("DOMContentLoaded", function () {
     const productContainer = document.getElementById("product-container");
 
